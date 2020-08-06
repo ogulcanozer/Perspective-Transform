@@ -1,2 +1,4 @@
-# Perspective-Transform
-An algorithm for finding the homography and correcting perspective effects
+ ##  Example :
+Input   |  Output
+:-------------------------:|:-------------------------:
+<img src="./images/paper.jpg">  |  <img src="./images/result.jpg">
