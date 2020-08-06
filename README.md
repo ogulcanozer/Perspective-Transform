@@ -1,4 +1,4 @@
  ##  Example :
 Input   |  Output
 :-------------------------:|:-------------------------:
-<img src="./images/paper.jpg">  |  <img src="./images/result.jpg">
+<img src="./images/paper.jpg" width="400">  |  <img src="./images/result.jpg">
